@@ -1,0 +1,10 @@
+{
+    "port": 5000,
+    "basePath": "/api/v1",
+    "mysqlHost": "localhost",
+    "mysqlUsername": "root",
+    "mysqlPassword": "",
+    "mysqlDatabase": "achromart",
+    "jwtPass": "unmotultrasecretetcomplexeetlongaussi",
+    "jwtExpireLength": "24h"
+}
